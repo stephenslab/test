@@ -1,0 +1,12 @@
+---
+title: "workflowr test"
+author: "Peter Carbonetto"
+---
+
+Plot 10 normally distributed random numbers:
+
+```{r scatterplot}
+plot(rnorm(10),rnorm(10),pch = 4)
+```
+
+
